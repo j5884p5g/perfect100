@@ -20,3 +20,4 @@ Read guides more conveniently on [Github Pages](https://lukojy3d.github.io/perfe
 Take a look at full [Contributing](https://github.com/LukoJy3D/perfect100/blob/main/CONTRIBUTING.md) guidelines.
 trigger
 last trigger
+final trigger
