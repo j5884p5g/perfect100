@@ -209,3 +209,4 @@ Objective: _Get full combo on at least 15 different levels on hard difficulty (s
 Owned by **1.8%** of players
 
 Objective: _Get full combo on at least 15 different levels on expert difficulty (solo free play only)._
+trigger
