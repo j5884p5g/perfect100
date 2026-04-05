@@ -18,3 +18,4 @@ Read guides more conveniently on [Github Pages](https://lukojy3d.github.io/perfe
 3. Post an issue with a request for new guides or improvements on existing ones.
 
 Take a look at full [Contributing](https://github.com/LukoJy3D/perfect100/blob/main/CONTRIBUTING.md) guidelines.
+trigger
